@@ -1,0 +1,15 @@
+# data/*
+# models/Deep-learning/*
+# notebooks/Data_scrap_EDA_model_selection/*
+# notebooks/QA_ursula_and_vision/*
+# src/*
+myenv/*
+## Ignore latex build files
+*.fdb_latexmk
+*.aux
+*.flsg
+*.log
+*.synctex.gz
+*.bbl
+*.blg
+*.brf
