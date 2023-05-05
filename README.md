@@ -1,3 +1,7 @@
+# Demo
+
+![](docs/gif.gif)
+
 # Presentation: Reading Assignment
 
 - [X] [Attention is all you need: Paper](./reading_papers/1706.03762.pdf)
@@ -57,6 +61,4 @@ streamlit run app.py
 
 ```
 
-# Demo
 
-![](docs/gif.gif)
